@@ -1,0 +1,21 @@
+{
+  "name": "compare-rows",
+  "version": "0.0.1",
+  "description": "NPX scripts that compare the rows (text lines) in two files.",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compare",
+    "lines",
+    "npx"
+  ],
+  "author": "Nicolas Dao",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "commander": "^8.1.0",
+    "inquirer": "^8.1.2"
+  }
+}
